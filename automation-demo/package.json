@@ -1,0 +1,9 @@
+{
+  "name": "automation-demo",
+  "version": "1.0.0",
+  "description": "DevOps Lab 2 Automation Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
